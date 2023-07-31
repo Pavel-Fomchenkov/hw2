@@ -36,7 +36,6 @@ public class Main {
         paper = paper - 7639;
         System.out.println(dog + " " + cat + " " + paper);
     }
-
     public static void task4() {
         var friend = 19;
         System.out.println(friend);
